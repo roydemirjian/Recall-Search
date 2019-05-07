@@ -4,7 +4,7 @@ import glob
 import os
 
 #Google API Key + Custom Search Engine ID
-gis = GoogleImagesSearch('AIzaSyCmMTfEgbsuRXy5aCPClCUZQjMiUULpAIg','003481545842197392659:wucdsj_bptm')
+gis = GoogleImagesSearch('REDACTED','REDACTED')
 
 #Specify MAKE|MODEL|YEAR
 car = 'honda civic 2018'
